@@ -1,2 +1,0 @@
-# ReduxSagaLiveWithJsonPlaceholderAPI
-Created with CodeSandbox
